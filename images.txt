@@ -1,4 +1,5 @@
 #支持私库
-b3log/siyuan:latest
+#b3log/siyuan:latest
+appflowyio/appflowy_client:0.6.2
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
+#--platform=linux/amd64 xiaoyaliu/alist
