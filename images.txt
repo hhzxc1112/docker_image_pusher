@@ -3,4 +3,5 @@
 #appflowyio/appflowy_client:0.6.2
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
-requarks/wiki:2.5
+#requarks/wiki:2.5
+postgres:15-alpine
