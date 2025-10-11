@@ -5,4 +5,4 @@
 #--platform=linux/amd64 xiaoyaliu/alist
 #requarks/wiki:2.5
 #postgres:15-alpine
-node:18-alpine
+node:18.20.8
