@@ -6,4 +6,5 @@
 #requarks/wiki:2.5
 #postgres:15-alpine
 #node:18.20.8
-milvusdb/milvus:v2.6.3
+#milvusdb/milvus:v2.6.3
+zilliz/attu:v2.6
