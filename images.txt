@@ -8,4 +8,5 @@
 #node:18.20.8
 #milvusdb/milvus:v2.6.3
 #zilliz/attu:v2.6
+
 n8nio/n8n:2.16.0-amd64
